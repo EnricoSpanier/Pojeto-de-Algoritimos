@@ -7,3 +7,5 @@ Todos os membros do grupo estão adicionados como colaboradores do repositório,
 ## Página Principal da WIKI: https://github.com/EnricoSpanier/Pojeto-de-Software/wiki
 ***
 ### Minicurrículo dos Membros do Grupo: https://github.com/EnricoSpanier/Pojeto-de-Software/wiki/Mini-Curriculo-Membros
+***
+### Tema do Projeto
