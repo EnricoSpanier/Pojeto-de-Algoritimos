@@ -9,3 +9,4 @@ Todos os membros do grupo estão adicionados como colaboradores do repositório,
 ### Minicurrículo dos Membros do Grupo: https://github.com/EnricoSpanier/Pojeto-de-Software/wiki/Mini-Curriculo-Membros
 ***
 ### Tema do Projeto
+- Sistema de controle de filmes em cartaz, bomboniere, ingressos e sessões de cinema.
